@@ -2353,7 +2353,7 @@
                     <!-- INSTAGRAM -->
                     <td>
                         <a href="https://www.tumblr.com/blog/mohammedoniba">
-                            <img src="./images/tumbler-logo.png" width="30">
+                            <img src="./images/tumblr-logo.png" width="30">
                         </a>
                     </td>
                     <!--// INSTAGRAM //-->
